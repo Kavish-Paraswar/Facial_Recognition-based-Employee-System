@@ -37,10 +37,15 @@ Fig - 2
 ## 📁 Project Structure
 
 ├── app.py # Main Flask application
+
 ├── static/ # CSS/JS files
+
 ├── templates/ # HTML templates
+
 ├── dataset/ # Stored face images
+
 ├── trainer/ # LBPH trained model
+
 ├── attendance.db # SQLite database file
 
 
