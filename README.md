@@ -1,4 +1,4 @@
-# 👨‍💼 Employee Management System using Facial Recognition
+#  Facial-Recognition based Employee System
 
 A contactless, real-time employee attendance system that uses facial recognition with the **LBPH algorithm**. Built with **Python**, **Flask**, and **SQLite**, it provides a secure and efficient way to manage attendance and employee records.
 
