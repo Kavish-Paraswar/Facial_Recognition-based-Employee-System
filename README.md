@@ -1,8 +1,10 @@
-#  Facial-Recognition based Employee System
+# Facial Recognition Employee System
 
-A contactless, real-time employee attendance system that uses facial recognition with the **LBPH algorithm**. Built with **Python**, **Flask**, and **SQLite**, it provides a secure and efficient way to manage attendance and employee records.
+AI-based attendance system using real-time facial recognition with LBPH.
 
----
+![Dashboard](https://github.com/user-attachments/assets/741fd792-b6de-4a8f-a24f-314dca279771)
+
+Built with Flask, OpenCV, and SQLite for secure, contactless employee tracking.
 
 ## 🚀 Features
 
@@ -83,7 +85,6 @@ Fig - 2
 - Prachi Pawar  
 - Swaraj Patil  
 - Riddhi Patel  
-- Guided by: Prof. Neha Patil
 
 ---
 
